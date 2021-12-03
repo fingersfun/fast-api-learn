@@ -1,0 +1,12 @@
+asyncpg
+fastapi
+uvicorn
+
+SQLAlchemy
+
+psycopg2-binary
+databases[postgresql]
+
+
+aiosqlite
+MySQLdb
